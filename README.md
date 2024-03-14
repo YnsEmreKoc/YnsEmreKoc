@@ -98,9 +98,9 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/YnsEmreKoc" target="_blank" style="display: inline-block;">
+            <a href="https://banabicoffee.com/@YnsEmreKoc" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://banabicoffee.com/@YnsEmreKoc" 
+                    src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" 
                     align="center"
                 />
             </a></div>
