@@ -1,11 +1,6 @@
 
 
 ### YUNUSEMRE KOÇ  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm YunusEmre Koç a full-time full-stack developer 👨‍💻</div>  
   
 
@@ -105,7 +100,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
             <a href="https://www.buymeacoffee.com/YnsEmreKoc" target="_blank" style="display: inline-block;">
                 <img
-                    src="[https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee](https://banabicoffee.com/@YnsEmreKoc)" 
+                    src="https://banabicoffee.com/@YnsEmreKoc" 
                     align="center"
                 />
             </a></div>
